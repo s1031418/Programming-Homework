@@ -1,0 +1,14 @@
+.opensdf
+*.out
+*.o
+*.sdf
+*.sln
+*.suo
+*.obj
+*.exe
+*.vcxproj
+*.vcxproj.filters
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
